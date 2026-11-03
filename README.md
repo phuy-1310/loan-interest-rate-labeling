@@ -13,10 +13,12 @@ Financial institutions need to determine suitable interest rates for loan applic
 ---
 
 ## Project Goal
+```text
 -Học được cách gán nhãn cho dữ liệu kiểu hồi quy.
 -Giải quyết bài toán thực tế trong doanh nghiệp.
 -So sánh các phương pháp & thuật toán thông qua sai số trung bình tuyệt đối (MAE)
 -Tiếp tục phát triển lên xây dựng các mô hình dự đoán.
+```
 ---
 
 ## Dataset
