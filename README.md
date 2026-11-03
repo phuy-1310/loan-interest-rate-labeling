@@ -1,5 +1,5 @@
 # Loan Interest Rate Regression
-
+![alt text](image.png)
 ---
 ## Project Overview
 
