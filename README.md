@@ -3,7 +3,7 @@
 ---
 ## Project Overview
 
-
+Bài tập seminar môn Data Mining. Học cách gán nhãn dựa cho dữ liệu hồi quy thông qua tìm hiểu tài liệu Data Labeling in Machine Learning with Python.
 
 ---
 
@@ -13,8 +13,10 @@ Financial institutions need to determine suitable interest rates for loan applic
 ---
 
 ## Project Goal
-
-
+-Học được cách gán nhãn cho dữ liệu kiểu hồi quy.
+-Giải quyết bài toán thực tế trong doanh nghiệp.
+-So sánh các phương pháp & thuật toán thông qua sai số trung bình tuyệt đối (MAE)
+-Tiếp tục phát triển lên xây dựng các mô hình dự đoán.
 ---
 
 ## Dataset
@@ -39,9 +41,9 @@ loan-interest-rate-prediction/
 │
 ├── notebooks/
 │   ├── eda_and_preprocessing.ipynb
-│   ├── labeling_target_by_summary_statistics.ipynb
-│   ├── labeling_target_by_data_augmentation.ipynb
-|   └── ...
+│   ├── using_summary_statistics.ipynb
+│   ├── using_data_augmentation.ipynb
+|   └── k_means_clustering.ipynb
 │
 │
 ├── README.md
