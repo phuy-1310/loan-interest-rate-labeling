@@ -36,7 +36,7 @@ data/
 ## Project Structure
 
 ```text
-loan-interest-rate-regression/
+loan-interest-rate-labeling/
 │
 ├── data/
 |
