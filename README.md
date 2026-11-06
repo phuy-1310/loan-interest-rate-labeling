@@ -1,9 +1,9 @@
 # Loan Interest Rate Regression
-![alt text](image.png)
+![alt text](image-1.png)
 ---
 ## Project Overview
 
-Bài tập seminar môn Data Mining. Học cách gán nhãn dựa cho dữ liệu hồi quy thông qua tìm hiểu tài liệu Data Labeling in Machine Learning with Python.
+Seminar assignment for the Data Mining course: Exploring methods for labeling regression datasets through the study of the document `Data Labeling in Machine Learning with Python`.
 
 ---
 
@@ -13,22 +13,22 @@ Financial institutions need to determine suitable interest rates for loan applic
 ---
 
 ## Project Goal
-```text
--Học được cách gán nhãn cho dữ liệu kiểu hồi quy.
--Giải quyết bài toán thực tế trong doanh nghiệp.
--So sánh các phương pháp & thuật toán thông qua sai số trung bình tuyệt đối (MAE)
--Tiếp tục phát triển lên xây dựng các mô hình dự đoán.
-```
+1. Understand and apply data labeling techniques for regression tasks.
+2. Address a real-world business problem using data mining techniques.
+3. Evaluate and compare different methods and algorithms based on Mean Absolute Error (MAE).
+
 ---
 
 ## Dataset
+
 The dataset is not included in this repository due to its large size.
 
-Dataset link:
+Dataset:
 https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv?select=loan.csv
 
+After downloading, place the dataset in the following directory:
 
-Place the dataset in:
+```text
 data/
 
 ---
@@ -54,10 +54,30 @@ loan-interest-rate-prediction/
 ---
 
 ## Workflow
+
 1. Exploratory Data Analysis (EDA)
 2. Data Preprocessing
-3. Data Splitting
-4. Labeling Data for Regression
-...
+3. Train-Test Split
+4. Labeling Data Using Summary Statistics
+5. Labeling Data Using Data Augmentation
+6. Labeling Data Using K-Means Clustering
+7. Model Training
+8. Model Evaluation (MAE)
+9. Results Comparison
 
+---
+
+## Report
+📄 [View Slides](https://canva.link/2r3twpwczddvjq4)
+
+### Contents
+- Introduction to Data Labeling for Regression
+- Business Problem Analysis
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing Techniques
+- Regression Labeling Methods
+- Experimental Setup
+- Model Evaluation using MAE
+- Results and Comparison
+- Conclusions and Future Work
 ---
