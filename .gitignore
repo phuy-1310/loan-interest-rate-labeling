@@ -1,6 +1,10 @@
 # Data
 *.csv
 
+#docs
+*.png
+
+
 # Jupyter
 .ipynb_checkpoints/
 
