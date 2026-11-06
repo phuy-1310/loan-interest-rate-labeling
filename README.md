@@ -1,4 +1,4 @@
-# Loan Interest Rate Regression
+# Loan Interest Rate Labeling
 ![alt text](./docs/image-1.png)
 ---
 ## Project Overview
