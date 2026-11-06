@@ -80,4 +80,13 @@ loan-interest-rate-labeling/
 - Model Evaluation using MAE
 - Results and Comparison
 - Conclusions and Future Work
+### Results Table
+| Method                      | MAE   | Compared to Baseline (3.789) |
+| --------------------------- | ----- | ---------------------------- |
+| Summary Statistics + Euclid | 7.21  | ~90% worse                   |
+| K-Means Labeling            | 3.91  | ~3% worse                    |
+| Baseline (Mean Prediction)  | 3.789 | N/A                          |
+| Data Augmentation + RF      | 3.39  | ~11% better                  |
+| Pseudo-Labeling RF          | 3.35  | ~12% better                  |
+| Self-Training               | 3.35  | ~12% better                  |
 ---
